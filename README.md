@@ -19,7 +19,7 @@ An interactive application for performing **Simple Linear Regression** and **Mul
     - Display a Variance Inflation Factor (VIF) table to check multicollinearity.
     - Show OLS Regression Results and residual plots.
     - Example GIF:
-      ![Multiple Linear Regression Example](path/to/multiple_regression.gif)
+      ![Multiple Linear Regression Example](https://github.com/nqeast/regression_app/blob/master/mult_reg.gif))
 - **Reset Functionality**: Reset the application to test other models.
 
 ---
@@ -27,10 +27,10 @@ An interactive application for performing **Simple Linear Regression** and **Mul
 ## Demo
 
 ### Simple Linear Regression
-![Simple Linear Regression Example](path/to/simple_regression.gif)
+![Simple Linear Regression Example](https://github.com/nqeast/regression_app/blob/master/mult_reg.gif)
 
 ### Multiple Linear Regression
-![Multiple Linear Regression Example](path/to/multiple_regression.gif)
+![Multiple Linear Regression Example](https://github.com/nqeast/regression_app/blob/master/mult_reg.gif)
 
 ---
 
