@@ -13,7 +13,7 @@ An interactive application for performing **Simple Linear Regression** and **Mul
     - Choose a single predictor and target variable.
     - Visualize results with a scatter plot, regression line, equation, and R-squared value.
     - Example GIF:
-      ![Simple Linear Regression Example](path/to/simple_regression.gif)
+      ![Simple Linear Regression Example](https://github.com/nqeast/regression_app/blob/master/sim_lreg.gif)
   - **Multiple Linear Regression**:
     - Select multiple predictors and a target variable.
     - Display a Variance Inflation Factor (VIF) table to check multicollinearity.
@@ -27,7 +27,7 @@ An interactive application for performing **Simple Linear Regression** and **Mul
 ## Demo
 
 ### Simple Linear Regression
-![Simple Linear Regression Example](https://github.com/nqeast/regression_app/blob/master/mult_reg.gif)
+![Simple Linear Regression Example](https://github.com/nqeast/regression_app/blob/master/sim_lreg.gif)
 
 ### Multiple Linear Regression
 ![Multiple Linear Regression Example](https://github.com/nqeast/regression_app/blob/master/mult_reg.gif)
